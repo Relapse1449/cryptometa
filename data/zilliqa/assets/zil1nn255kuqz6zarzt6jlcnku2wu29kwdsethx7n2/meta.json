@@ -1,0 +1,12 @@
+{
+  "name": "Sweaty Royalty",
+  "symbol": "SWTR",
+
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "SweatyRoyalty.png",
+    "score": 5
+  }
+}
